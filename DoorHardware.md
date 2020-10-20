@@ -6,6 +6,6 @@ The [Schlage Encode](https://www.schlage.com/en/home/products/BE489WBCENFFF.html
 ![Schlage Encode](/res/SchlageEncodeCentury.png)
 
 ## Door Levers
-### 
-The [Schlage Latitude lever](https://www.schlage.com/en/home/products/F10LATFFFCEN.html) with Century trim.
+### Schlage Latitude Lever with Century Trim
+The [Schlage Latitude lever](https://www.schlage.com/en/home/products/F10LATFFFCEN.html) with Century Trim.
 ![Schlage Latitude](/res/LatitudeLeverCentury.png)
